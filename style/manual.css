@@ -1,0 +1,19 @@
+.show {
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  min-height: 100vh;
+}
+.show-bold{
+  background-color: rgba(0, 0, 0, 0.4) !important;
+  min-height: 100vh;
+}
+
+.link-card {
+  text-decoration: none;
+}
+
+.buy {
+  text-align: center;
+  font-weight: bold;
+  height: 2rem;
+  background-color: yellow;
+}
